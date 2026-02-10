@@ -5,7 +5,7 @@ The controller manages traffic signals for a **North–South (NS)** and **West�
 
 ---
 
-## 📌 Features
+##  Features
 - FSM-based design with **6 well-defined states**
 - Separate LED outputs for **NS** and **WE** directions
 - Configurable timing using an internal counter
@@ -14,7 +14,7 @@ The controller manages traffic signals for a **North–South (NS)** and **West�
 
 ---
 
-## 🧠 State Encoding
+##  State Encoding
 
 | State | NS Light | WE Light | Description |
 |------|---------|----------|-------------|
@@ -36,7 +36,7 @@ The controller manages traffic signals for a **North–South (NS)** and **West�
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 traffic-light-controller-verilog/
 ├── rtl/ # Verilog RTL design
 ├── tb/ # Testbench
@@ -47,9 +47,9 @@ traffic-light-controller-verilog/
 
 ---
 
-## ▶️ How to Simulate
+##  How to Simulate
 
-Using **ModelSim / Questa / Xcelium**:
+Using **Cadence**:
 
 ```tcl
 vlog rtl/traffic_light.v tb/traffic_light_tb.v
