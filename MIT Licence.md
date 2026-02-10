@@ -10,16 +10,7 @@ Verilog | Digital Design | Physical Design Enthusiast
 This README is **clean, technical, and recruiter-safe**.
 
 
----
 
-
-##  LICENSE File (Use MIT – no debate)
-
-
-Create a file named `LICENSE` and paste this:
-
-
-```txt
 MIT License
 
 
