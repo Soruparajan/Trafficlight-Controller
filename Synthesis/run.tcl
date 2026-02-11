@@ -1,4 +1,4 @@
-read_libs /home/install/FOUNDRY/digital/45nm/LIBS/lib/max/slow.lib
+read_libs /Your path/slow.lib
 read_hdl traffilight.v
 elaborate
 read_sdc input_constraints.sdc
